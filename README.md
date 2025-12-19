@@ -1,6 +1,6 @@
-# AI Symptom Analysis System
+# Nidan AI - Intelligent Symptom Analysis
 
-An AI-powered medical symptom analysis assistant that combines Machine Learning predictions with LLM-based diagnostic reasoning.
+Nidan AI is an intelligent medical symptom analysis assistant that combines Machine Learning predictions with LLM-based diagnostic reasoning.
 
 ## 🏗️ Project Structure
 

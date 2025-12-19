@@ -17,8 +17,8 @@ const outfit = Outfit({
 
 
 export const metadata: Metadata = {
-  title: "MediSense AI - Symptom Analysis",
-  description: "Advanced AI-powered symptom analysis assistant.",
+  title: "Nidan AI - Symptom Analysis",
+  description: "Nidan AI - Intelligent symptom analysis assistant powered by ML and LLM.",
 };
 
 

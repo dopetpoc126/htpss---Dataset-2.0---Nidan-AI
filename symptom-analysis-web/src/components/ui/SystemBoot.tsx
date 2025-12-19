@@ -77,7 +77,7 @@ export function SystemBoot() {
                         {/* Progress Bar */}
                         <div className="space-y-2">
                             <div className="flex justify-between text-xs tracking-widest text-cyan-600">
-                                <span>MEDISENSE_OS V2.42</span>
+                                <span>NIDAN_OS V2.42</span>
                                 <span>{progress}%</span>
                             </div>
                             <div className="h-1 w-full bg-cyan-900/30 rounded-full overflow-hidden">

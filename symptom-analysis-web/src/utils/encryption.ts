@@ -3,7 +3,7 @@ import encUtf8 from 'crypto-js/enc-utf8';
 
 // In a real app, this key should be an env variable.
 // For this standalone client-side demo, we'll use a hardcoded fallback or generated key.
-const SECRET_KEY = process.env.NEXT_PUBLIC_ENCRYPTION_KEY || "medisense-secure-key-v1";
+const SECRET_KEY = process.env.NEXT_PUBLIC_ENCRYPTION_KEY || "nidan-secure-key-v1";
 
 export const encryptData = (data: any): string => {
     try {

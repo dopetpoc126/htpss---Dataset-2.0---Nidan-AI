@@ -17,7 +17,7 @@ export type ChatSession = {
     messages: Message[];
 };
 
-const STORAGE_KEY = "medisense_chat_history";
+const STORAGE_KEY = "nidan_chat_history";
 
 export function useChatHistory() {
     const [sessions, setSessions] = useState<ChatSession[]>([]);

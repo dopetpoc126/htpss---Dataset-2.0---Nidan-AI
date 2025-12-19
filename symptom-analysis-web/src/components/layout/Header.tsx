@@ -14,7 +14,7 @@ export function Header({ className }: HeaderProps) {
                     <Activity className="h-6 w-6 text-white" />
                 </div>
                 <div>
-                    <h1 className="text-lg font-bold tracking-tight text-white">MediSense AI</h1>
+                    <h1 className="text-lg font-bold tracking-tight text-white">Nidan AI</h1>
                     <p className="text-xs text-slate-400">Symptom Analysis Assistant</p>
                 </div>
             </div>
