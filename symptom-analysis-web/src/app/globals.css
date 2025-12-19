@@ -1,0 +1,110 @@
+@import "tailwindcss";
+
+@theme {
+    /* Medical/Trust Color Palette - Refined Slate/Indigo */
+    --color-brand-50: #f8fafc;
+    --color-brand-100: #f1f5f9;
+    --color-brand-200: #e2e8f0;
+    --color-brand-300: #cbd5e1;
+    --color-brand-400: #94a3b8;
+    --color-brand-500: #64748b;
+    /* Slate-500 for neutral brand */
+    --color-brand-600: #475569;
+    --color-brand-700: #334155;
+    --color-brand-800: #1e293b;
+    --color-brand-900: #0f172a;
+    --color-brand-950: #020617;
+
+    /* Primary Action Color (was brand-500) */
+    /* We'll use a specific "Medical Blue" for accents */
+    --color-med-500: #3b82f6;
+    /* Blue-500 */
+    --color-med-600: #2563eb;
+    /* Blue-600 */
+
+    /* Accent Colors */
+    --color-accent-500: #6366f1;
+    /* Indigo for interactions */
+    --color-success-500: #10b981;
+    /* Emerald for good results */
+    --color-warning-500: #f59e0b;
+    /* Amber for cautions */
+    --color-error-500: #ef4444;
+    /* Red for alerts */
+
+    /* Neutral/Glass Colors */
+    --color-glass-border: rgba(255, 255, 255, 0.1);
+    --color-glass-bg: rgba(255, 255, 255, 0.05);
+
+    /* Font Family - defaulting to system sans for now, will add Google Fonts later if needed */
+    --font-sans: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+:root {
+    --background: #000000;
+    /* Pure Black */
+    --foreground: #f8fafc;
+    /* Slate 50 */
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --background: #000000;
+        --foreground: #f8fafc;
+    }
+}
+
+body {
+    color: var(--foreground);
+    background: var(--background);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* Glassmorphism Utilities */
+.glass-panel {
+    background: rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.glass-card {
+    background: rgba(0, 0, 0, 0.6);
+    /* Black with opacity */
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.2), 0 2px 4px -1px rgba(0, 0, 0, 0.1);
+}
+
+/* Custom Scrollbar - Themed */
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+
+::-webkit-scrollbar-track {
+    background: rgba(15, 23, 42, 0.5);
+    border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgba(100, 116, 139, 0.5);
+    border-radius: 3px;
+    transition: background 0.2s;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(34, 211, 238, 0.6);
+}
+
+::-webkit-scrollbar-corner {
+    background: transparent;
+}
+
+/* Firefox scrollbar */
+* {
+    scrollbar-width: thin;
+    scrollbar-color: rgba(100, 116, 139, 0.5) rgba(15, 23, 42, 0.5);
+}

@@ -1,0 +1,99 @@
+# ===== Environment & Secrets =====
+.env
+.env.local
+.env.*.local
+*.env
+.envrc
+
+# ===== API Keys & Credentials =====
+**/secrets/
+**/credentials/
+*.pem
+*.key
+*.crt
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# ===== Node.js =====
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# ===== Next.js =====
+.next/
+out/
+.vercel
+
+# ===== IDE & Editor =====
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ===== Logs =====
+logs/
+*.log
+npm-debug.log*
+
+# ===== Testing =====
+coverage/
+.nyc_output/
+.pytest_cache/
+htmlcov/
+
+# ===== Build Outputs =====
+*.pkl
+!ML/model_100percent.pkl
+!ML/mappings_100percent.pkl
+*.h5
+*.onnx
+*.pt
+*.pth
+
+# ===== Large Data Files =====
+*.csv
+!LLM/DiseaseAndSymptoms.csv
+*.parquet
+*.feather
+
+# ===== Jupyter Notebooks Outputs =====
+.ipynb_checkpoints/
+*.ipynb
+!ML/Untitled0.ipynb
+
+# ===== OS Generated =====
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# ===== Misc =====
+*.bak
+*.tmp
+*.temp
+*.cache
+.cache/

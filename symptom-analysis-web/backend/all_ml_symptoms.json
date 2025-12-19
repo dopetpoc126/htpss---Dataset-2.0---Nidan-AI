@@ -1,0 +1,714 @@
+[
+  {
+    "display": "Abdominal Pain",
+    "ml_format": "abdominal_pain"
+  },
+  {
+    "display": "Abnormal Involuntary Movements",
+    "ml_format": "abnormal involuntary movements"
+  },
+  {
+    "display": "Abnormal Menstruation",
+    "ml_format": "abnormal_menstruation"
+  },
+  {
+    "display": "Acidity",
+    "ml_format": "acidity"
+  },
+  {
+    "display": "Acute Liver Failure",
+    "ml_format": "acute_liver_failure"
+  },
+  {
+    "display": "Altered Sensorium",
+    "ml_format": "altered_sensorium"
+  },
+  {
+    "display": "Anxiety",
+    "ml_format": "anxiety"
+  },
+  {
+    "display": "Anxiety And Nervousness",
+    "ml_format": "anxiety and nervousness"
+  },
+  {
+    "display": "Back Pain",
+    "ml_format": "back_pain"
+  },
+  {
+    "display": "Belly Pain",
+    "ml_format": "belly_pain"
+  },
+  {
+    "display": "Blackheads",
+    "ml_format": "blackheads"
+  },
+  {
+    "display": "Bladder Discomfort",
+    "ml_format": "bladder_discomfort"
+  },
+  {
+    "display": "Blister",
+    "ml_format": "blister"
+  },
+  {
+    "display": "Blood In Sputum",
+    "ml_format": "blood_in_sputum"
+  },
+  {
+    "display": "Blood In Urine",
+    "ml_format": "blood in urine"
+  },
+  {
+    "display": "Bloody Stool",
+    "ml_format": "bloody_stool"
+  },
+  {
+    "display": "Blurred And Distorted Vision",
+    "ml_format": "blurred_and_distorted_vision"
+  },
+  {
+    "display": "Breathing Fast",
+    "ml_format": "breathing fast"
+  },
+  {
+    "display": "Breathlessness",
+    "ml_format": "breathlessness"
+  },
+  {
+    "display": "Brittle Nails",
+    "ml_format": "brittle_nails"
+  },
+  {
+    "display": "Bruising",
+    "ml_format": "bruising"
+  },
+  {
+    "display": "Burning Micturition",
+    "ml_format": "burning_micturition"
+  },
+  {
+    "display": "Chest Pain",
+    "ml_format": "chest_pain"
+  },
+  {
+    "display": "Chest Tightness",
+    "ml_format": "chest tightness"
+  },
+  {
+    "display": "Chills",
+    "ml_format": "chills"
+  },
+  {
+    "display": "Cold Hands And Feets",
+    "ml_format": "cold_hands_and_feets"
+  },
+  {
+    "display": "Coma",
+    "ml_format": "coma"
+  },
+  {
+    "display": "Congestion",
+    "ml_format": "congestion"
+  },
+  {
+    "display": "Constipation",
+    "ml_format": "constipation"
+  },
+  {
+    "display": "Continuous Feel Of Urine",
+    "ml_format": "continuous_feel_of_urine"
+  },
+  {
+    "display": "Continuous Sneezing",
+    "ml_format": "continuous_sneezing"
+  },
+  {
+    "display": "Cough",
+    "ml_format": "cough"
+  },
+  {
+    "display": "Cramps",
+    "ml_format": "cramps"
+  },
+  {
+    "display": "Cross-Eyed",
+    "ml_format": "cross-eyed"
+  },
+  {
+    "display": "Dark Urine",
+    "ml_format": "dark_urine"
+  },
+  {
+    "display": "Dehydration",
+    "ml_format": "dehydration"
+  },
+  {
+    "display": "Depression",
+    "ml_format": "depression"
+  },
+  {
+    "display": "Depression",
+    "ml_format": "depression"
+  },
+  {
+    "display": "Depressive Or Psychotic Symptoms",
+    "ml_format": "depressive or psychotic symptoms"
+  },
+  {
+    "display": "Diarrhoea",
+    "ml_format": "diarrhoea"
+  },
+  {
+    "display": "Diminished Hearing",
+    "ml_format": "diminished hearing"
+  },
+  {
+    "display": "Diminished Vision",
+    "ml_format": "diminished vision"
+  },
+  {
+    "display": "Dischromic  Patches",
+    "ml_format": "dischromic _patches"
+  },
+  {
+    "display": "Distention Of Abdomen",
+    "ml_format": "distention_of_abdomen"
+  },
+  {
+    "display": "Dizziness",
+    "ml_format": "dizziness"
+  },
+  {
+    "display": "Dizziness",
+    "ml_format": "dizziness"
+  },
+  {
+    "display": "Double Vision",
+    "ml_format": "double vision"
+  },
+  {
+    "display": "Drying And Tingling Lips",
+    "ml_format": "drying_and_tingling_lips"
+  },
+  {
+    "display": "Ear Pain",
+    "ml_format": "ear pain"
+  },
+  {
+    "display": "Enlarged Thyroid",
+    "ml_format": "enlarged_thyroid"
+  },
+  {
+    "display": "Excessive Hunger",
+    "ml_format": "excessive_hunger"
+  },
+  {
+    "display": "Extra Marital Contacts",
+    "ml_format": "extra_marital_contacts"
+  },
+  {
+    "display": "Eye Deviation",
+    "ml_format": "eye deviation"
+  },
+  {
+    "display": "Eye Moves Abnormally",
+    "ml_format": "eye moves abnormally"
+  },
+  {
+    "display": "Eye Redness",
+    "ml_format": "eye redness"
+  },
+  {
+    "display": "Family History",
+    "ml_format": "family_history"
+  },
+  {
+    "display": "Fast Heart Rate",
+    "ml_format": "fast_heart_rate"
+  },
+  {
+    "display": "Fatigue",
+    "ml_format": "fatigue"
+  },
+  {
+    "display": "Fluid Overload",
+    "ml_format": "fluid_overload"
+  },
+  {
+    "display": "Foreign Body Sensation In Eye",
+    "ml_format": "foreign body sensation in eye"
+  },
+  {
+    "display": "Foul Smell Of Urine",
+    "ml_format": "foul_smell_of urine"
+  },
+  {
+    "display": "Frequent Urination",
+    "ml_format": "frequent urination"
+  },
+  {
+    "display": "Headache",
+    "ml_format": "headache"
+  },
+  {
+    "display": "Headache",
+    "ml_format": "headache"
+  },
+  {
+    "display": "High Fever",
+    "ml_format": "high_fever"
+  },
+  {
+    "display": "Hip Joint Pain",
+    "ml_format": "hip_joint_pain"
+  },
+  {
+    "display": "History Of Alcohol Consumption",
+    "ml_format": "history_of_alcohol_consumption"
+  },
+  {
+    "display": "Hoarse Voice",
+    "ml_format": "hoarse voice"
+  },
+  {
+    "display": "Increased Appetite",
+    "ml_format": "increased_appetite"
+  },
+  {
+    "display": "Indigestion",
+    "ml_format": "indigestion"
+  },
+  {
+    "display": "Inflammatory Nails",
+    "ml_format": "inflammatory_nails"
+  },
+  {
+    "display": "Insomnia",
+    "ml_format": "insomnia"
+  },
+  {
+    "display": "Internal Itching",
+    "ml_format": "internal_itching"
+  },
+  {
+    "display": "Involuntary Urination",
+    "ml_format": "involuntary urination"
+  },
+  {
+    "display": "Irregular Appearing Scalp",
+    "ml_format": "irregular appearing scalp"
+  },
+  {
+    "display": "Irregular Heartbeat",
+    "ml_format": "irregular heartbeat"
+  },
+  {
+    "display": "Irregular Sugar Level",
+    "ml_format": "irregular_sugar_level"
+  },
+  {
+    "display": "Irritability",
+    "ml_format": "irritability"
+  },
+  {
+    "display": "Irritation In Anus",
+    "ml_format": "irritation_in_anus"
+  },
+  {
+    "display": "Itchiness Of Eye",
+    "ml_format": "itchiness of eye"
+  },
+  {
+    "display": "Itching",
+    "ml_format": "itching"
+  },
+  {
+    "display": "Itchy Ear(S)",
+    "ml_format": "itchy ear(s)"
+  },
+  {
+    "display": "Itchy Eyelid",
+    "ml_format": "itchy eyelid"
+  },
+  {
+    "display": "Joint Pain",
+    "ml_format": "joint_pain"
+  },
+  {
+    "display": "Knee Pain",
+    "ml_format": "knee_pain"
+  },
+  {
+    "display": "Lack Of Concentration",
+    "ml_format": "lack_of_concentration"
+  },
+  {
+    "display": "Lack Of Growth",
+    "ml_format": "lack of growth"
+  },
+  {
+    "display": "Lacrimation",
+    "ml_format": "lacrimation"
+  },
+  {
+    "display": "Lethargy",
+    "ml_format": "lethargy"
+  },
+  {
+    "display": "Loss Of Appetite",
+    "ml_format": "loss_of_appetite"
+  },
+  {
+    "display": "Loss Of Balance",
+    "ml_format": "loss_of_balance"
+  },
+  {
+    "display": "Loss Of Smell",
+    "ml_format": "loss_of_smell"
+  },
+  {
+    "display": "Lower Abdominal Pain",
+    "ml_format": "lower abdominal pain"
+  },
+  {
+    "display": "Malaise",
+    "ml_format": "malaise"
+  },
+  {
+    "display": "Mild Fever",
+    "ml_format": "mild_fever"
+  },
+  {
+    "display": "Mood Swings",
+    "ml_format": "mood_swings"
+  },
+  {
+    "display": "Movement Stiffness",
+    "ml_format": "movement_stiffness"
+  },
+  {
+    "display": "Mucoid Sputum",
+    "ml_format": "mucoid_sputum"
+  },
+  {
+    "display": "Muscle Pain",
+    "ml_format": "muscle_pain"
+  },
+  {
+    "display": "Muscle Wasting",
+    "ml_format": "muscle_wasting"
+  },
+  {
+    "display": "Muscle Weakness",
+    "ml_format": "muscle_weakness"
+  },
+  {
+    "display": "Nausea",
+    "ml_format": "nausea"
+  },
+  {
+    "display": "Neck Pain",
+    "ml_format": "neck_pain"
+  },
+  {
+    "display": "Nodal Skin Eruptions",
+    "ml_format": "nodal_skin_eruptions"
+  },
+  {
+    "display": "Obesity",
+    "ml_format": "obesity"
+  },
+  {
+    "display": "Pain Behind The Eyes",
+    "ml_format": "pain_behind_the_eyes"
+  },
+  {
+    "display": "Pain During Bowel Movements",
+    "ml_format": "pain_during_bowel_movements"
+  },
+  {
+    "display": "Pain During Intercourse",
+    "ml_format": "pain during intercourse"
+  },
+  {
+    "display": "Pain During Pregnancy",
+    "ml_format": "pain during pregnancy"
+  },
+  {
+    "display": "Pain In Anal Region",
+    "ml_format": "pain_in_anal_region"
+  },
+  {
+    "display": "Pain In Eye",
+    "ml_format": "pain in eye"
+  },
+  {
+    "display": "Painful Urination",
+    "ml_format": "painful urination"
+  },
+  {
+    "display": "Painful Walking",
+    "ml_format": "painful_walking"
+  },
+  {
+    "display": "Palpitations",
+    "ml_format": "palpitations"
+  },
+  {
+    "display": "Palpitations",
+    "ml_format": "palpitations"
+  },
+  {
+    "display": "Passage Of Gases",
+    "ml_format": "passage_of_gases"
+  },
+  {
+    "display": "Patches In Throat",
+    "ml_format": "patches_in_throat"
+  },
+  {
+    "display": "Pelvic Pain",
+    "ml_format": "pelvic pain"
+  },
+  {
+    "display": "Phlegm",
+    "ml_format": "phlegm"
+  },
+  {
+    "display": "Plugged Feeling In Ear",
+    "ml_format": "plugged feeling in ear"
+  },
+  {
+    "display": "Polyuria",
+    "ml_format": "polyuria"
+  },
+  {
+    "display": "Prominent Veins On Calf",
+    "ml_format": "prominent_veins_on_calf"
+  },
+  {
+    "display": "Puffy Face And Eyes",
+    "ml_format": "puffy_face_and_eyes"
+  },
+  {
+    "display": "Pus Filled Pimples",
+    "ml_format": "pus_filled_pimples"
+  },
+  {
+    "display": "Receiving Blood Transfusion",
+    "ml_format": "receiving_blood_transfusion"
+  },
+  {
+    "display": "Receiving Unsterile Injections",
+    "ml_format": "receiving_unsterile_injections"
+  },
+  {
+    "display": "Red Sore Around Nose",
+    "ml_format": "red_sore_around_nose"
+  },
+  {
+    "display": "Red Spots Over Body",
+    "ml_format": "red_spots_over_body"
+  },
+  {
+    "display": "Redness Of Eyes",
+    "ml_format": "redness_of_eyes"
+  },
+  {
+    "display": "Restlessness",
+    "ml_format": "restlessness"
+  },
+  {
+    "display": "Ringing In Ear",
+    "ml_format": "ringing in ear"
+  },
+  {
+    "display": "Runny Nose",
+    "ml_format": "runny_nose"
+  },
+  {
+    "display": "Rusty Sputum",
+    "ml_format": "rusty_sputum"
+  },
+  {
+    "display": "Scurring",
+    "ml_format": "scurring"
+  },
+  {
+    "display": "Sharp Abdominal Pain",
+    "ml_format": "sharp abdominal pain"
+  },
+  {
+    "display": "Shivering",
+    "ml_format": "shivering"
+  },
+  {
+    "display": "Shortness Of Breath",
+    "ml_format": "shortness of breath"
+  },
+  {
+    "display": "Silver Like Dusting",
+    "ml_format": "silver_like_dusting"
+  },
+  {
+    "display": "Sinus Pressure",
+    "ml_format": "sinus_pressure"
+  },
+  {
+    "display": "Skin Peeling",
+    "ml_format": "skin_peeling"
+  },
+  {
+    "display": "Skin Rash",
+    "ml_format": "skin_rash"
+  },
+  {
+    "display": "Slurred Speech",
+    "ml_format": "slurred_speech"
+  },
+  {
+    "display": "Small Dents In Nails",
+    "ml_format": "small_dents_in_nails"
+  },
+  {
+    "display": "Spinning Movements",
+    "ml_format": "spinning_movements"
+  },
+  {
+    "display": "Spots Or Clouds In Vision",
+    "ml_format": "spots or clouds in vision"
+  },
+  {
+    "display": "Spotting  Urination",
+    "ml_format": "spotting_ urination"
+  },
+  {
+    "display": "Stiff Neck",
+    "ml_format": "stiff_neck"
+  },
+  {
+    "display": "Stomach Bleeding",
+    "ml_format": "stomach_bleeding"
+  },
+  {
+    "display": "Stomach Pain",
+    "ml_format": "stomach_pain"
+  },
+  {
+    "display": "Sunken Eyes",
+    "ml_format": "sunken_eyes"
+  },
+  {
+    "display": "Suprapubic Pain",
+    "ml_format": "suprapubic pain"
+  },
+  {
+    "display": "Sweating",
+    "ml_format": "sweating"
+  },
+  {
+    "display": "Swelled Lymph Nodes",
+    "ml_format": "swelled_lymph_nodes"
+  },
+  {
+    "display": "Swelling Joints",
+    "ml_format": "swelling_joints"
+  },
+  {
+    "display": "Swelling Of Stomach",
+    "ml_format": "swelling_of_stomach"
+  },
+  {
+    "display": "Swollen Blood Vessels",
+    "ml_format": "swollen_blood_vessels"
+  },
+  {
+    "display": "Swollen Extremeties",
+    "ml_format": "swollen_extremeties"
+  },
+  {
+    "display": "Swollen Legs",
+    "ml_format": "swollen_legs"
+  },
+  {
+    "display": "Symptoms Of Eye",
+    "ml_format": "symptoms of eye"
+  },
+  {
+    "display": "Throat Irritation",
+    "ml_format": "throat_irritation"
+  },
+  {
+    "display": "Toxic Look (Typhos)",
+    "ml_format": "toxic_look_(typhos)"
+  },
+  {
+    "display": "Ulcers On Tongue",
+    "ml_format": "ulcers_on_tongue"
+  },
+  {
+    "display": "Unsteadiness",
+    "ml_format": "unsteadiness"
+  },
+  {
+    "display": "Vaginal Discharge",
+    "ml_format": "vaginal discharge"
+  },
+  {
+    "display": "Vaginal Itching",
+    "ml_format": "vaginal itching"
+  },
+  {
+    "display": "Vaginal Pain",
+    "ml_format": "vaginal pain"
+  },
+  {
+    "display": "Vaginal Redness",
+    "ml_format": "vaginal redness"
+  },
+  {
+    "display": "Visual Disturbances",
+    "ml_format": "visual_disturbances"
+  },
+  {
+    "display": "Vomiting",
+    "ml_format": "vomiting"
+  },
+  {
+    "display": "Watering From Eyes",
+    "ml_format": "watering_from_eyes"
+  },
+  {
+    "display": "Weakness In Limbs",
+    "ml_format": "weakness_in_limbs"
+  },
+  {
+    "display": "Weakness Of One Body Side",
+    "ml_format": "weakness_of_one_body_side"
+  },
+  {
+    "display": "Weight Gain",
+    "ml_format": "weight_gain"
+  },
+  {
+    "display": "Weight Loss",
+    "ml_format": "weight_loss"
+  },
+  {
+    "display": "Yellow Crust Ooze",
+    "ml_format": "yellow_crust_ooze"
+  },
+  {
+    "display": "Yellow Urine",
+    "ml_format": "yellow_urine"
+  },
+  {
+    "display": "Yellowing Of Eyes",
+    "ml_format": "yellowing_of_eyes"
+  },
+  {
+    "display": "Yellowish Skin",
+    "ml_format": "yellowish_skin"
+  }
+]
