@@ -11,7 +11,7 @@ Nidan AI is an intelligent medical symptom analysis assistant that combines Mach
 │   └── train_ensemble.py        # Model training scripts
 │
 ├── LLM/                         # LLM Integration (Standalone)
-│   ├── diagnosis_system.py      # Gemini-based diagnosis system
+│   ├── diagnosis_system.py      # Llama-based diagnosis system
 │   └── symptoms.json            # Symptom definitions
 │
 └── symptom-analysis-web/        # Full-Stack Web Application
