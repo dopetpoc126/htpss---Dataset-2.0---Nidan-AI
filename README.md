@@ -3,11 +3,11 @@
 Nidan AI is an intelligent medical symptom analysis assistant that combines Machine Learning predictions with LLM-based diagnostic reasoning.
 
 ## Team members
-1)[Hayagreev](github.com/hn1902)<br>
-2)[Tarun](github.com/Tarun-Vaibhav-V)<br>
-3)[Pranav](github.com/pranav-2399)<br>
-4)[Shriyan](github.com/dopetpoc126)<br>
-5)[Shaileshh](github.com/shaileshh-r)<br>
+1)[Hayagreev](https://www.github.com/hn1902)<br>
+2)[Tarun](https://www.github.com/Tarun-Vaibhav-V)<br>
+3)[Pranav](https://www.github.com/pranav-2399)<br>
+4)[Shriyan](https://www.github.com/dopetpoc126)<br>
+5)[Shaileshh](https://www.github.com/shaileshh-r)<br>
 
 ## Project Structure
 
