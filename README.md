@@ -2,7 +2,14 @@
 
 Nidan AI is an intelligent medical symptom analysis assistant that combines Machine Learning predictions with LLM-based diagnostic reasoning.
 
-## 🏗️ Project Structure
+## Team members
+1)[Hayagreev](github.com/hn1902)
+2)[Tarun](github.com/Tarun-Vaibhav-V)
+3)[Pranav](github.com/pranav-2399)
+4)[Shriyan](github.com/dopetpoc126)
+5)[Shaileshh](github.com/shaileshh-r)
+
+## Project Structure
 
 ```
 ├── ML/                          # Machine Learning Model
@@ -27,7 +34,7 @@ Nidan AI is an intelligent medical symptom analysis assistant that combines Mach
         └── api/                 # API client
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -79,7 +86,7 @@ SUPABASE_SERVICE_ROLE_KEY=your_supabase_service_key
 ENCRYPTION_KEY=your_32_byte_encryption_key
 ```
 
-## 🔧 Features
+## Features
 
 - **ML-Powered Predictions**: Trained on 130+ diseases with 178 symptoms
 - **LLM Diagnostic Reasoning**: Uses Groq's Llama 3.3 70B for intelligent follow-up questions
@@ -88,17 +95,17 @@ ENCRYPTION_KEY=your_32_byte_encryption_key
 - **Secure Auth**: Supabase authentication with encrypted medical data
 - **Chat History**: Encrypted local storage of past consultations
 
-## 📊 ML Model
+## ML Model
 
 The machine learning model is trained on a comprehensive disease-symptom dataset:
 - **Input**: 178 binary symptom features
 - **Output**: Probability distribution over 130+ diseases
 - **Architecture**: Ensemble classifier with probability calibration
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This AI tool is for **informational purposes only** and does not replace professional medical advice. Always consult a healthcare provider for medical decisions.
 
-## 📄 License
+## License
 
 This project is for educational purposes.
